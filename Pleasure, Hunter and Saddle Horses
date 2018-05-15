@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Style.css">
+  </head>
+    <h1> Pleasure Horses </h1>
+  <p> These horses are the most common breeds for this section of riding. </p>
+  <body>
+    <h2> Tennessee Walker Horse </h2>
+    <img src="Tennessee%20Walker.jpg"
+         alt="Tennessee Walker"/>
+    <p> Dan Dee Shots - Wikimedia - CC </p>
+    
+    <h2> Arabian </h2>
+    <img src="Arabian.jpg"
+         alt="Arabian"/>
+    <p> Heather Morreton - Wikimedia - CC </p>
+    
+    <h1> Hunter Horses </h1>
+    <h2> Thoroughbred </h2>
+    <img src="Thoroughbred.jpg"
+         alt="Thoroughbred"/>
+    <p> Softeis - Wikimedia - CC</p>
+    
+    <h2> Warmblood </h2>
+    <img src="Warmblood.jpg"
+         alt="Warmblood"/>
+    <!-- The Anti-copyright symbol can't be made so I just put anti-copyright. It's a C with a slash mark through it.-->
+    <p> Fotoimage - Wikimedia - Anti-copyright </p>
+    
+    <h1> Saddle Horses </h1>
+    <h2> Saddlebred </h2>
+    <img src="Saddlebred.jpg"
+         alt="Saddlebred"/>
+    <p> Jean - Wikimedia - CC </p>
+  
+    <a href="index.html" > Return to Index </a>
+    
+   </body>
+    </html>
