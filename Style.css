@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+p {
+  color: black;
+  font-family: serif;
+  font-size: 20px;
+  
+}
+h1 {
+  font-weight: bold;
+  border-color: antiquewhite;
+  font-family: monospace;
+  border-style: solid;
+}
+h2 {
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 40px;
+  text-decoration: underline;
+  text-decoration-color: antiquewhite;
+}
+img {
+  width: 500px;
+    
