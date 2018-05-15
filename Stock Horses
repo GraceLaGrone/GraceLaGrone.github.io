@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Style.css">
+  </head>
+  <h1> Stock Horses </h1>
+  <p> These are the most common types of horses for this section of riding. </p>
+  <body>
+    <h2> American Quarter Horse </h2>
+    <img src="Quarter%20Horse.JPG"
+         alt="American Quarter Horse"/>
+    <p> Sara Landvogt - Wikimedia - CC </p>
+      
+    <h2> Appaloosa </h2>
+    <img src="Appaloosa.jpg"
+         alt="Appaloosa"/>
+    <p> Bhakti2 - Pixabay - CC </p>
+    
+    <h2> American Paint Horse </h2>
+    <img src="American%20PAint.jpg"
+         alt="American Paint"/>
+    <p> Bonnie U. Gruenberg - Wikimedia - CC </p>
+    
+    <a href="index.html" >Return to index </a>
+    
+  </body>
+</html>
